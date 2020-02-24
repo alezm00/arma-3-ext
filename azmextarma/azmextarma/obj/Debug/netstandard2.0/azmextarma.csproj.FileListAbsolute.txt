@@ -1,0 +1,8 @@
+C:\Users\aless\source\repos\azmextarma\azmextarma\bin\Debug\netstandard2.0\azmextarma.deps.json
+C:\Users\aless\source\repos\azmextarma\azmextarma\bin\Debug\netstandard2.0\azmextarma.dll
+C:\Users\aless\source\repos\azmextarma\azmextarma\obj\Debug\netstandard2.0\azmextarma.csprojAssemblyReference.cache
+C:\Users\aless\source\repos\azmextarma\azmextarma\obj\Debug\netstandard2.0\azmextarma.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\azmextarma\azmextarma\obj\Debug\netstandard2.0\azmextarma.AssemblyInfo.cs
+C:\Users\aless\source\repos\azmextarma\azmextarma\bin\Debug\netstandard2.0\azmextarma.pdb
+C:\Users\aless\source\repos\azmextarma\azmextarma\obj\Debug\netstandard2.0\azmextarma.dll
+C:\Users\aless\source\repos\azmextarma\azmextarma\obj\Debug\netstandard2.0\azmextarma.pdb
