@@ -1,0 +1,8 @@
+E:\GITS\armaexts\firsttry\firsttry\bin\Debug\netstandard2.0\firsttry.deps.json
+E:\GITS\armaexts\firsttry\firsttry\bin\Debug\netstandard2.0\firsttry.dll
+E:\GITS\armaexts\firsttry\firsttry\obj\Debug\netstandard2.0\firsttry.csprojAssemblyReference.cache
+E:\GITS\armaexts\firsttry\firsttry\obj\Debug\netstandard2.0\firsttry.AssemblyInfoInputs.cache
+E:\GITS\armaexts\firsttry\firsttry\obj\Debug\netstandard2.0\firsttry.AssemblyInfo.cs
+E:\GITS\armaexts\firsttry\firsttry\bin\Debug\netstandard2.0\firsttry.pdb
+E:\GITS\armaexts\firsttry\firsttry\obj\Debug\netstandard2.0\firsttry.dll
+E:\GITS\armaexts\firsttry\firsttry\obj\Debug\netstandard2.0\firsttry.pdb
