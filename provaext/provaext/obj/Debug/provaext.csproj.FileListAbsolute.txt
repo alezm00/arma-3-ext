@@ -1,0 +1,5 @@
+E:\GITS\armaexts\provaext\provaext\bin\Debug\provaext.dll
+E:\GITS\armaexts\provaext\provaext\bin\Debug\provaext.pdb
+E:\GITS\armaexts\provaext\provaext\obj\Debug\provaext.csprojAssemblyReference.cache
+E:\GITS\armaexts\provaext\provaext\obj\Debug\provaext.dll
+E:\GITS\armaexts\provaext\provaext\obj\Debug\provaext.pdb
